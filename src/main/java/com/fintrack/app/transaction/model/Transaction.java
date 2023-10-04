@@ -1,7 +1,7 @@
-package com.fintrack.app.model;
+package com.fintrack.app.transaction.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import com.fintrack.app.dto.TransactionDTO;
+import com.fintrack.app.transaction.dto.TransactionDTO;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

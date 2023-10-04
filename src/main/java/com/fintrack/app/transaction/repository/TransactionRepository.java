@@ -1,6 +1,6 @@
-package com.fintrack.app.repository;
+package com.fintrack.app.transaction.repository;
 
-import com.fintrack.app.model.Transaction;
+import com.fintrack.app.transaction.model.Transaction;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,7 +1,7 @@
-package com.fintrack.app.dto;
+package com.fintrack.app.transaction.dto;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import com.fintrack.app.model.Transaction;
+import com.fintrack.app.transaction.model.Transaction;
 import lombok.Builder;
 
 import java.time.LocalDate;
